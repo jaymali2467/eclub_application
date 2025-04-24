@@ -17,7 +17,7 @@ export default function AboutPage() {
         className="max-w-4xl mx-auto"
       >
         <div className="flex justify-between items-center mb-8">
-          <Link href="/">
+          <Link href="/app/home/page.tsx">
             <Button variant="outline" className="gap-2">
               <ArrowLeft className="h-4 w-4" />
               Back to Home
